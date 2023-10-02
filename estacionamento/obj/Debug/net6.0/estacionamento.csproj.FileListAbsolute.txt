@@ -1,0 +1,14 @@
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\bin\Debug\net6.0\estacionamento.exe
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\bin\Debug\net6.0\estacionamento.deps.json
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\bin\Debug\net6.0\estacionamento.runtimeconfig.json
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\bin\Debug\net6.0\estacionamento.dll
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\bin\Debug\net6.0\estacionamento.pdb
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.AssemblyInfoInputs.cache
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.AssemblyInfo.cs
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.csproj.CoreCompileInputs.cache
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.dll
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\refint\estacionamento.dll
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.pdb
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\estacionamento.genruntimeconfig.cache
+D:\ProjetosTreino\Dio-Estacionamento\estacionamento\obj\Debug\net6.0\ref\estacionamento.dll
